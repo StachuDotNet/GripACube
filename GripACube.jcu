@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>GripACube</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>GripACube</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>pack</path>
+			</folderitem>
+			<folderitem>
+				<path>prune</path>
+			</folderitem>
+			<folderitem>
+				<path>transform</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>GripACube.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>Solution.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>
